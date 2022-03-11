@@ -1,0 +1,3 @@
+apt upgrade
+apt update
+apt install repo
